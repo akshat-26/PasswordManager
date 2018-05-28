@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">Password Manager</string>
+    <string name="desc_fingerprint">Made by someone who does this for fun and is super awesome, super sexy, super smart etc etc etc. You know what I mean ;). #octacode</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+</resources>
